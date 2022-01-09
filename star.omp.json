@@ -49,7 +49,8 @@
           "powerline_symbol": "\uE0B0",
           "foreground": "#7FD5EA",
           "properties": {
-            "prefix": "\uFCD1 "
+            "display_version": true,
+            "prefix": "<#ffffff>via</> \uFCD1"
           }
         },
         {
